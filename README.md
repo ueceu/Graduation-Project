@@ -1,4 +1,4 @@
-# Graduation-Project
+# TEMPERATURE CONTROLLER WITH PID ON - OFF AND SLOW PWM FUNCTIONALITY 
 The aim of this project is to develop a temperature control system based on a microcontroller platform using three distinct control strategies: PID, On/Off, and Slow PWM.
 The project focuses on the implementation, comparison, and analysis of these control algorithms through practical experimentation and system modeling. This work contributes to the field of applied control systems by targeting to develop a prototype of industrial heating controller.
 
